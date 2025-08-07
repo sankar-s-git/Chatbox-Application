@@ -16,7 +16,6 @@ A real-time chat application that allows users to communicate instantly. This ap
 
 - **Frontend**: React / HTML / CSS / TailwindCSS (customize accordingly)
 - **Backend**: Node.js + Express
-- **WebSocket**: 
 - **Database**: MongoDB / Firebase / PostgreSQL (optional depending on your implementation)
 
 ## 📦 Installation
