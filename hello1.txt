@@ -1,1 +1,1 @@
-print is word
+print is  a word
